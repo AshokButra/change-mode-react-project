@@ -1,0 +1,66 @@
+.container {
+  height: 100vh;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card1 {
+  background-color: black;
+  padding: 20px;
+  border-width: 0px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading1 {
+  color: #ffffff;
+  font-weight: 800;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+
+.button1 {
+  color: black;
+  background-color: #ffffff;
+  border-radius: 8px;
+  border-width: 0px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.card2 {
+  background-color: #ffffff;
+  padding: 20px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #adaca6;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading2 {
+  color: black;
+  font-weight: 800;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+
+.button2 {
+  color: #ffffff;
+  background-color: black;
+  border-radius: 8px;
+  border-width: 0px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
